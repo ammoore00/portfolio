@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Abigail",
-	description: "A data scientist and java developer.",
+	description: "A data scientist, java developer, and video game modder.",
 	image: profile.src,
 	buttons: [
 		{
@@ -119,7 +119,7 @@ export const contact = {
 export const SEO = {
 	// 50 - 60 char  
 	title: "Abigail Moore | Java Developer | Data Scientist | Video Game Modder",
-	description: "I create mobile apps and static websites. I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering.",
+	description: "I am a data scientist, java developer, and video game modder.",
 	image: profile.src,
 }
 
