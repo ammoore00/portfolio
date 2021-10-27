@@ -81,6 +81,16 @@ export const projects = {
 			]
 		},
 		{
+			title: "Optical Character Recognition",
+			description: "A model written in tensorflow using to recognize a wide variety of alphanumeric characters. Trained on Extended MNIST dataset.",
+			icons: [
+				{
+					icon: faGithub,
+					link: "https://github.com/ammoore00/machine-learning-final-project",
+				},
+			]
+		},
+		{
 			title: "Object Classifier",
 			description: "A program for detecting and classifying objects in provided images. Developed in 2016 for my senior projects capstone class in high school.",
 			icons: [
