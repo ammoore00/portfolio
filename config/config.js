@@ -47,7 +47,7 @@ export const about = {
 	description: [
 		"I attended Colorado School of Mines from 2016 to 2021 studying Computer Science with a focus on Data Science, and worked as a data science intern at AudibleHealthAI from 2020 to 2021.",
 		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I enjoy modding video games, primarily Minecraft, and have also contributed to several open source tools to help others begin modding as well.",
-		"When I’m not programming, I focus on my hobbies which are: rock climbing, skiing, scuba diving, reading scifi and fantasy, and playing D&D.",
+		"When I’m not programming, I focus on my other hobbies which are: rock climbing, skiing, scuba diving, reading scifi and fantasy, and playing D&D.",
 	],
 }
 
