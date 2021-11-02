@@ -56,7 +56,7 @@ export const work = {
 	cards: [
 		{
 			title: "Data Science",
-			description: "I create amchine learning models using Tensorflow in Python",
+			description: "I create machine learning models using Tensorflow in Python",
 			icons: null,
 		},
 		{
@@ -77,6 +77,16 @@ export const projects = {
 				{
 					icon: faGithub,
 					link: "https://github.com/BTW-Community/BTW-Public",
+				},
+			]
+		},
+		{
+			title: "Better Terrain",
+			description: "An addon for Better Than Wolves with a custom world generator. Written using OpenSimplex2 noise by KDotJPEG.",
+			icons: [
+				{
+					icon: faGithub,
+					link: "https://github.com/BTW-Community/Better-Terrain-Addon",
 				},
 			]
 		},
