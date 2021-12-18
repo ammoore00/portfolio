@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Abigail",
-	description: "A data scientist, java developer, and video game modder.",
+	description: "A data scientist, java developer, and game designer.",
 	image: profile.src,
 	buttons: [
 		{
@@ -45,8 +45,9 @@ export const intro = {
 export const about = {
 	title: "Who I am",
 	description: [
-		"I attended Colorado School of Mines from 2016 to 2021 studying Computer Science with a focus on Data Science, and worked as a data science intern at AudibleHealthAI from 2020 to 2021.",
-		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I enjoy modding video games, primarily Minecraft, and have also contributed to several open source tools to help others begin modding as well.",
+		"I attended Colorado School of Mines from 2016 to 2021 studying Computer Science with a focus on Data Science, and worked as a data scientist at AudibleHealthAI from 2020 to 2021.",
+		"I enjoy modding video games, primarily Minecraft, and have also contributed to several open source tools to help others begin modding as well. I have also created several machine learning models leveraging computer vision for things such as motion tracking and object recognition. All of my projects are available on my github profile, while a curated selection are linked in the projects section below.",
+		"All of my code is provided under an open license to help future developers learn and to encourage growth in the tech community.",
 		"When I’m not programming, I focus on my other hobbies which are: rock climbing, skiing, scuba diving, reading scifi and fantasy, and playing D&D.",
 	],
 }
@@ -60,8 +61,8 @@ export const work = {
 			icons: null,
 		},
 		{
-			title: "Video Game Modding",
-			description: "I create video game mods, primarily Minecraft using Java",
+			title: "Game Design",
+			description: "I create mods and standalone games, primarily using Java and C++.",
 			icons: null,
 		}
 	],
@@ -138,15 +139,15 @@ export const contact = {
 // SEARCH ENGINE 
 export const SEO = {
 	// 50 - 60 char  
-	title: "Abigail Moore | Java Developer | Data Scientist | Video Game Modder",
-	description: "I am a data scientist, java developer, and video game modder.",
+	title: "Abigail Moore | Java Developer | Data Scientist | Game Designer",
+	description: "I am a data scientist, java developer, and game designer.",
 	image: profile.src,
 }
 
 export const links = {
 	image: profile.src,
 	title: "Abigail Moore",
-	description: "Java Developer | Data Scientist | Video Game Modder",
+	description: "Java Developer | Data Scientist | Game Designer",
 	cards: [
 		{
 			title: "My GitHub",
