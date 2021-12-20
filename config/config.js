@@ -157,5 +157,9 @@ export const links = {
 			title: "Email Me",
 			link: "mailto:abigailmmoore00@gmail.com",
 		},
+		{
+			title: "Website Source",
+			link: "https://github.com/ammoore00/portfolio",
+		},
 	]
 }
