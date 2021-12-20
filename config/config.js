@@ -83,7 +83,7 @@ export const projects = {
 		},
 		{
 			title: "Better Terrain",
-			description: "An addon for Better Than Wolves with a custom world generator. Written using OpenSimplex2 noise by KDotJPEG.",
+			description: "An addon for the Better Than Wolves Minecraft mod adding a custom world generator. Written using OpenSimplex2 noise by KDotJPEG.",
 			icons: [
 				{
 					icon: faGithub,
@@ -93,7 +93,7 @@ export const projects = {
 		},
 		{
 			title: "Optical Character Recognition",
-			description: "A model written in tensorflow using to recognize a wide variety of alphanumeric characters. Trained on Extended MNIST dataset.",
+			description: "A model written in python using tensorflow to recognize a wide variety of alphanumeric characters. Trained on Extended MNIST dataset.",
 			icons: [
 				{
 					icon: faGithub,
@@ -103,7 +103,7 @@ export const projects = {
 		},
 		{
 			title: "Object Classifier",
-			description: "A program for detecting and classifying objects in provided images. Developed in 2016 for my senior projects capstone class in high school.",
+			description: "A program for detecting and classifying objects in provided images. Developed in 2016 for my high school senior projects capstone class.",
 			icons: [
 				{
 					icon: faGithub,
@@ -150,8 +150,12 @@ export const links = {
 	description: "Java Developer | Data Scientist | Game Designer",
 	cards: [
 		{
-			title: "My GitHub",
+			title: "GitHub",
 			link: "https://github.com/ammoore00/",
+		},
+		{
+			title: "Email Me",
+			link: "mailto:abigailmmoore00@gmail.com",
 		},
 	]
 }
