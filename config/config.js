@@ -35,6 +35,11 @@ export const intro = {
 			isPrimary: true,
 		},
 		{
+			title: "Github",
+			link: "https://github.com/ammoore00",
+			isPrimary: false,
+		},
+		{
 			title: "Resume",
 			link: "https://www.dropbox.com/s/je8jqwiktitets7/Abigail%20Moore%20Resume%2010-21.docx?dl=0",
 			isPrimary: false,
