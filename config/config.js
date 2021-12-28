@@ -46,7 +46,7 @@ export const about = {
 	title: "Who I am",
 	description: [
 		"I attended Colorado School of Mines from 2016 to 2021 studying Computer Science with a focus on Data Science, and worked as a data science intern at AudibleHealthAI from 2020 to 2021.",
-		"I enjoy modding video games, primarily Minecraft, and have also contributed to several open source tools to help others begin modding as well. I have also created several machine learning models leveraging computer vision for things such as motion tracking and object recognition. All of my projects are available on my github profile, while a curated selection are linked in the projects section below.",
+		"I enjoy modding video games, primarily Minecraft, and have also contributed to several open source tools to help others begin modding as well. I have also created several machine learning models leveraging computer vision for things such as motion tracking and object recognition. My projects are available on my github profile, while a curated selection are linked in the projects section below.",
 		"All of my code is provided under an open license to help future developers learn and to encourage growth in the tech community.",
 		"When I’m not programming, I focus on my other hobbies which are: rock climbing, skiing, scuba diving, reading scifi and fantasy, and playing D&D.",
 	],
@@ -152,6 +152,10 @@ export const links = {
 		{
 			title: "GitHub",
 			link: "https://github.com/ammoore00/",
+		},
+		{
+			title: "Resume",
+			link: "https://www.dropbox.com/s/je8jqwiktitets7/Abigail%20Moore%20Resume%2010-21.docx?dl=0",
 		},
 		{
 			title: "Email Me",
